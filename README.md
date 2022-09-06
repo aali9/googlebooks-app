@@ -55,6 +55,6 @@ $ npm run develop
 
 ## Deployed Application Links 
 
-https://googlebookssearch-app.herokuapp.com
+https://googlebookssearch-app.heokuapp.com
 
 https://github.com/aali9/googlebooks-app
