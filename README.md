@@ -44,7 +44,7 @@ To complete this successfully I will need to do the following:
 
 ![Saved Books](client/public/saved-books.png)
 
-## Installation 
+## Installation
 
 To install the required dependencies and set up the application, run:
 
@@ -53,7 +53,7 @@ $ npm i
 $ npm run develop
 ```
 
-## Deployed Application Links 
+## Deployed Application Links
 
 https://googlebookssearch-app.heokuapp.com
 
